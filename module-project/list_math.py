@@ -26,10 +26,12 @@ def average(list):
     return average
     
 def Max(list):
-    return (max(list))
+    l = [max(list)]
+    return (max(l))
    
 
-def Min(list1):
-    return (min(list))
+def Min(list):
+    l = [min(list)]
+    return (min(l))
    
     
