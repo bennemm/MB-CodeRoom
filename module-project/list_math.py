@@ -4,7 +4,7 @@ Created on Fri May  3 11:54:12 2019
 
 @author: benne
 """
-'''MAth functions that are called in file
+'''Math functions that are called in file
 main.py '''
 
 
