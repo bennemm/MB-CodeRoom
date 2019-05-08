@@ -4,6 +4,8 @@ Created on Fri May  3 11:54:12 2019
 
 @author: benne
 """
+'''MAth functions that are called in file
+main.py '''
 
 
 def count(list):
@@ -31,8 +33,3 @@ def Min(list1):
     return (min(list))
    
     
-#print(count(list1))
-#print(Sum(list1))
-#print(average(list1))
-#print(Max(list1))
-#print(Min(list1))
