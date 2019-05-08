@@ -4,6 +4,7 @@ Created on Fri May  3 11:52:16 2019
 
 @author: benne
 """
+'''Calling math functions defined in list_math.py'''
 
 from list_math import*   
 list1 = list(map(int, 
